@@ -20,7 +20,7 @@ The purpose of this analysis is to explore PyBers existing ride-share data to be
 - This figure shows the total amount of fares paid each week, by city type
 - While there are fluctuations week-to-week in terms of total fares paid, the city types seem to move in proportion
 
-![weekly_fare_summary](weekly_fare_summary.PNG)
+![weekly_fare_summary](weekly_fare_summary.png)
 
 # Summary 
 
