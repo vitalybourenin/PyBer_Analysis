@@ -11,7 +11,7 @@ The purpose of this analysis is to explore PyBers existing ride-share data to be
 - Riders in rural cities paid the highest average fare per each ride, while urban riders on average paid the lowest fare per ride
 - The average fare per driver in rural cities was more than three times higher than the average fare per driver in urban cities
 
-![pyber_summary_df]("analysis/pyber_summary_df.PNG")
+![pyber_summary_df](pyber_summary_df.PNG)
 
 
 
@@ -20,7 +20,7 @@ The purpose of this analysis is to explore PyBers existing ride-share data to be
 - This figure shows the total amount of fares paid each week, by city type
 - While there are fluctuations week-to-week in terms of total fares paid, the city types seem to move in proportion
 
-![weekly_fare_summary]("analysis/weekly_fare_summary.PNG")
+![weekly_fare_summary](weekly_fare_summary.PNG)
 
 # Summary 
 
