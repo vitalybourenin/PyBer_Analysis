@@ -24,4 +24,7 @@ The purpose of this analysis is to explore PyBers existing ride-share data to be
 
 # Summary 
 
-
+Recommendations to PyBer:
+- Focus on raising the number of drivers in rural areas. With an increase in the number of drivers, fares will start to decrease and likely make rural consumers more likely to use PyBer.
+- Use marketing strategies to increase brand awareness in rural and suburban cities.
+- Incentivize rural and suburban customers to start using PyBer with first-time user discount, encourage spread by offering further discounts for sharing discount code with other first-time users. 
